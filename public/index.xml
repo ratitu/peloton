@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peloton bicicletaria on PELOTON BICICLETARIA</title>
+    <link>https://pelotonbicicletaria.com.br/</link>
+    <description>Recent content in Peloton bicicletaria on PELOTON BICICLETARIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jun 2021 22:17:52 -0300</lastBuildDate>
+    
+	<atom:link href="https://pelotonbicicletaria.com.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contato</title>
+      <link>https://pelotonbicicletaria.com.br/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pelotonbicicletaria.com.br/contact/</guid>
+      <description>Entre em contato pelo telefone/whatsapp 19 99990-6565 Ou faça uma visita, atendimento de segunda a sabado das 8 as 20h Rua Dr. Alfredo Antonio Martinelli, 1010 - Cidade Universitaria parte 2 - Barão Geraldo - Campinas/SP</description>
+    </item>
+    
+  </channel>
+</rss>
