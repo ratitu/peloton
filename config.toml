@@ -1,7 +1,7 @@
 title = "PELOTON BICICLETARIA"
 baseURL = "https://pelotonbicicletaria.com.br"
 languageCode = "en-us"
-theme = "ananke"
+theme = ["osm", "ananke"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
