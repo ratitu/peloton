@@ -1,6 +1,6 @@
 ---
 title: Contato
-featured_image: "images/banner_549.jpg"
+featured_image: "images/pantani.png"
 omit_header_text: true
 description: We'd love to hear from you
 type: page
