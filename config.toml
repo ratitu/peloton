@@ -6,7 +6,7 @@ theme = ["osm", "ananke"]
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
+googleAnalytics = "UA-154587947-1"
 enableRobotsTXT = true
 
 [languages]
@@ -28,6 +28,7 @@ enableRobotsTXT = true
   twitter = ""
   instagram = "https://www.instagram.com/pelotonbicicletaria3/"
   youtube = ""
+  whatsapp = "+5519999906565"
   github = ""
   gitlab = ""
   linkedin = ""
