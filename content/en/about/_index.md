@@ -1,8 +1,5 @@
 ---
 title: "Sobre"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+featured_image: '/images/tdf.png'
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
-
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Peloton: Grupo de ciclistas que mesmo quando competindo entre si, pedalam juntos para reduzir o esforço coletivo na luta contra o vento. A bicicleta é ótima para se divertir e se exercitar mas além disso é o melhor meio de transporte já inventado pelo ser humano. Se adapta a qualquer tipo de terreno e qualquer biotipo inclusive para pessoas com problemas de mobilidade. Movida à arroz com feijão, não emite gases poluentes, o barulho é mínimo e ocupa pouco espaço. Comparando com outros meios de transporte a manutenção é muito simples e o custo super baixo. Pensando em garantir um role seguro e eficiente, a Peloton bicicletaria oferece serviços de manutenção para todos os tipos de bicicleta: Conserto de pneu furado Ajuste de cambio e freios Alinhamento de rodas Manutenção nos cubos das rodas Manutenção do pedivela e movimento central e pedais Outros ajustes em geral
