@@ -1,6 +1,6 @@
 ---
 title: "Peloton bicicletaria"
-featured_image: '/images/banner_vec.png'
+featured_image: '/images/tdf.png'
 description: "The peloton is regrouped - comrades and friendship"
 ---
 ENDEREÇO:
